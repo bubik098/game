@@ -55,5 +55,5 @@ while licznik<8:
 			continue
 		else:
 			break
-	
+print(guessed_list)
 	
